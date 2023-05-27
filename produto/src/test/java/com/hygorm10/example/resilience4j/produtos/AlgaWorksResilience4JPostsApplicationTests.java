@@ -1,0 +1,13 @@
+package com.hygorm10.example.resilience4j.produtos;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AlgaWorksResilience4JPostsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
